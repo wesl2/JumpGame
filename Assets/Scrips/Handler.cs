@@ -9,6 +9,8 @@ public class Handler : MonoBehaviour
     [SerializeField] AudioClip success;
     AudioSource AS;
 
+
+
     bool IsCollision = true;
     bool IsTransition = false;
     private void Start()
