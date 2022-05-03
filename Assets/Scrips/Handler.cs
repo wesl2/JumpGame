@@ -19,6 +19,7 @@ public class Handler : MonoBehaviour
     }
     private void Update()
     {
+        
         SkipLevel();
     }
     private void OnCollisionEnter(Collision collision)
